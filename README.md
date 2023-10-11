@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rimzss
-- 👀 I’m interested in video games, movies, animes etc..
+- 👀 I’m interested in playing video games, reading books, coding, watching movies animes ...etc
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
