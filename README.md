@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Elbeg Amar</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bilguun Battugs</h1>
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
@@ -52,31 +52,3 @@
 [![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amar9elbeg&theme=radical&hide_border=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amar9elbeg)  
-
-
-
-
-<p align='center'>
-    🤝🏻 &nbsp;Connect with Me
-</p>
-<p align="center">
-
-<a href="https://www.linkedin.com/in/elbeg-amar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:elbeg@nestsolutions.llc" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/amar9elbeg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-
-
-<p align=center>
-   <img  src="https://github.com/amar9elbeg/amar9elbeg/assets/89896446/3bd63823-2f91-41f3-a116-3b365249ba3f"/>
-</p>
-
-
-<p align="center">
------
-
-</p>
-<p align="center">
-  Credits: [Elbeg Amarbayasgalan](https://github.com/amar9elbeg)
-</p>
