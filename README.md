@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/rimzss">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -37,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/rimzss">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=algolia"/>
 </a>
