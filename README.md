@@ -1,39 +1,29 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Bilguun Battugs</h1>
-<h4 align="center">Develop Software Solutions</h4>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&height=100&lines=Hello;I'm+Bilguun+Battugs;Develop+Software+Solutions"/>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rimzss">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img align="right" src="https://static.printler.com/cache/b/6/2/1/8/5/b62185106fe88902e27fd68e7d6c16c3d98d9fa2.jpg" alt="adam-pw" />
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
-
+<pre>
+    💼 Pinecone • Leap developer • Student
+    💻 Html • Css •JavaScript • TypeScript 
+    📖 React • Next • NodeJs • ExpressJs
+    🎮 Movie • Games • Anime • Code
+</pre>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/rimzss">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=algolia"/>
+  
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161B22"/>
+  <img height="180em"   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=dracula&bg_color=161B22"/>
 </a>
 </p>
+
+  <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="40" />
+
 
