@@ -1,3 +1,4 @@
+
 <div align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&height=100&lines=Hello;I'm+Bilguun+Battugs;Develop+Software+Solutions"/>
 </div>
@@ -14,7 +15,6 @@
     📖 React • Next • NodeJs • ExpressJs
     🎮 Movie • Games • Anime • Code
 </pre>
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a  href="https://github.com/rimzss">
@@ -25,5 +25,6 @@
 </p>
 
   <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="40" />
+
 
 
