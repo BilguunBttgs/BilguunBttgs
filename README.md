@@ -1,6 +1,7 @@
 
 <div align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&height=100&lines=Hello;I'm+Bilguun+Battugs;Develop+Software+Solutions"/>
+ <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="40" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&height=100&lines=Hello;I'm+Bilguun+Battugs;Develop+Software+Solutions"/>
 </div>
 
 <div align="left">
@@ -24,7 +25,7 @@
 </a>
 </p>
 
-  <img src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="40" />
+ 
 
 
 
