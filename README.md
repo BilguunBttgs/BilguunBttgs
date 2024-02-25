@@ -8,7 +8,7 @@
   <a href="https://github.com/rimzss">
 </div>
 
-<img align="center" src="https://static.printler.com/cache/b/6/2/1/8/5/b62185106fe88902e27fd68e7d6c16c3d98d9fa2.jpg" alt="adam-pw" />
+<img align="center" src="https://t3.ftcdn.net/jpg/05/00/85/04/360_F_500850425_KGzvN3zMn2Uif4Xa1eQDbV3bqgTNzA4H.jpg" alt="itachi" />
 
 <pre>
     💼 Pinecone • Leap developer • Student
