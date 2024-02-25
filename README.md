@@ -8,7 +8,7 @@
   <a href="https://github.com/rimzss">
 </div>
 
-<img align="right" src="https://static.printler.com/cache/b/6/2/1/8/5/b62185106fe88902e27fd68e7d6c16c3d98d9fa2.jpg" alt="adam-pw" />
+<img align="center" src="https://static.printler.com/cache/b/6/2/1/8/5/b62185106fe88902e27fd68e7d6c16c3d98d9fa2.jpg" alt="adam-pw" />
 
 <pre>
     💼 Pinecone • Leap developer • Student
@@ -17,7 +17,7 @@
     🎮 Movie • Games • Anime • Code
 </pre>
 
-<p align="left">
+<p align="center">
 <a  href="https://github.com/rimzss">
   
   <img height="180em" width="300px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161B22"/>
