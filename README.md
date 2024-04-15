@@ -22,7 +22,7 @@
 <a  href="https://github.com/rimzss">
   
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161B22"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ugtakh&layout=compact&langs_count=8&theme=dracula&bg_color=161B22"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=dracula&bg_color=161B22"/>
 </a>
 </p>
 
