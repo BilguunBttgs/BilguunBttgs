@@ -11,7 +11,7 @@
 <div aling="center">
  <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100" />
 <pre style="text-align:center">
-    💼 Pinecone • Full stack • Intern
+    💼 Full stack • Looking for full time job
     💻 Html • Css •JavaScript • TypeScript • Java
     📖 React • Next • NodeJs • ExpressJs
     🎮 Movie • Games • Anime • Code
