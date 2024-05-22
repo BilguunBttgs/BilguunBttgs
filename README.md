@@ -25,6 +25,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=dracula&bg_color=161B22"/>
 </a>
 </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rimzss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
  
 
