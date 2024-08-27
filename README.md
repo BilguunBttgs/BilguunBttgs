@@ -12,7 +12,8 @@
  <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100" />
 <pre style="text-align:center">
     💼 Full stack • Ultimate Solution LLC
-    💻 Html • Css •JavaScript • TypeScript • Java
+    💻 Html • Css • JavaScript • TypeScript
+    💻 Java • C++ • C#
     📖 React • Next • NodeJs • ExpressJs
     🎮 Movie • Games • Anime • Code
 </pre>
