@@ -6,10 +6,10 @@
 
 
  
-<img align="center" src="https://t3.ftcdn.net/jpg/05/00/85/04/360_F_500850425_KGzvN3zMn2Uif4Xa1eQDbV3bqgTNzA4H.jpg" alt="itachi" />
+<img align="center" width="100%" src="https://t3.ftcdn.net/jpg/05/00/85/04/360_F_500850425_KGzvN3zMn2Uif4Xa1eQDbV3bqgTNzA4H.jpg" alt="itachi" />
 
 <div aling="center">
- <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100" />
+ <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100"  />
 <pre style="text-align:center">
     💼 Full stack • Ultimate Solution LLC
     💻 Html • Css • JavaScript • TypeScript • Java • C++ • C#
