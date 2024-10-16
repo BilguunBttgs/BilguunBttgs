@@ -11,7 +11,7 @@
 <div aling="center">
  <img alignt="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAi/anime.gif" height="100"  />
 <pre style="text-align:center">
-    💼 Full stack • Ultimate Solution LLC
+    💼 Full stack • Nest Core LLC
     💻 Html • Css • JavaScript • TypeScript • Java • C++ • C#
     📖 React • React Native • NextJs • NodeJs • ExpressJs • Graphql • AWS • .NET
     🎮 Movie • Games • Anime • Code
