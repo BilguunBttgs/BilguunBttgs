@@ -21,12 +21,12 @@
 <p align="center">
 <a  href="https://github.com/rimzss">
   
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rimzss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161B22"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rimzss&layout=compact&langs_count=8&theme=dracula&bg_color=161B22&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=BilguunBttgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=161B22"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BilguunBttgs&layout=compact&langs_count=8&theme=dracula&bg_color=161B22&count_private=true"/>
 </a>
 </p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rimzss&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=BilguunBttgs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
  
