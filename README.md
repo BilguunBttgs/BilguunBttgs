@@ -13,7 +13,7 @@
 <pre style="text-align:center">
     💼 Full stack • Nest Core LLC
     💻 Html • Css • JavaScript • TypeScript • Java • C++ • C#
-    📖 React • React Native • NextJs • NodeJs • ExpressJs • Graphql • AWS • .NET
+    📖 React • React Native • NextJs • NodeJs • ExpressJs • Graphql
     🎮 Movie • Games • Anime • Code
 </pre>
 </div>
